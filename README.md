@@ -1,6 +1,6 @@
 Hello There, <b>HackSafe</b> is here.
 
-The HaceSafe platform provides a wide range of security services to its believers. In addition, we offer expert security audits for blockchain projects & smart contracts and 24/7 security monitoring software tool.
+The HackSafe platform provides a wide range of security services to its believers. In addition, we offer expert security audits for blockchain projects & smart contracts and 24/7 security monitoring software tool.
 
 Together with our industry-leading suite of blockchain security analysis tools and our experienced team of smart contract auditors, we ensure your application is built to protect users and is ready for launch.
 
